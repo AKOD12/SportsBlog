@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\ankit\nflstats\nflstats"
+VIRTUAL_ENV="C:\Users\ankit\Documents\GitHub\SportsBlog\nflstats\nflstats"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
